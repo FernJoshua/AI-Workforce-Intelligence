@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model Files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Large datasets (optional)
+# data/raw/
+
+# Temporary files
+temp/
+tmp/
+
+# Cache
+.cache/
+
+# Environment Variables
+.env
