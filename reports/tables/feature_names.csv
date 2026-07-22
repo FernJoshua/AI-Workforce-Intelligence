@@ -1,0 +1,116 @@
+Feature
+Age
+Attrition
+DailyRate
+DistanceFromHome
+Education
+EnvironmentSatisfaction
+HourlyRate
+JobInvolvement
+JobLevel
+JobSatisfaction
+MonthlyIncome
+MonthlyRate
+NumCompaniesWorked
+PercentSalaryHike
+PerformanceRating
+RelationshipSatisfaction
+StockOptionLevel
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
+PromotionDelay
+OvertimeRisk
+FrequentTraveler
+LongCommute
+ExperienceRatio
+TenureRatio
+EngagementScore
+WellbeingScore
+CareerGrowthScore
+LoyaltyScore
+ManagerStability
+SalaryPercentile
+IncomePerJobLevel
+YoungProfessional
+SeniorEmployee
+AttritionRiskScore
+BusinessTravel_Non-Travel
+BusinessTravel_Travel_Frequently
+BusinessTravel_Travel_Rarely
+Department_Human Resources
+Department_Research & Development
+Department_Sales
+EducationField_Human Resources
+EducationField_Life Sciences
+EducationField_Marketing
+EducationField_Medical
+EducationField_Other
+EducationField_Technical Degree
+Gender_Female
+Gender_Male
+JobRole_Healthcare Representative
+JobRole_Human Resources
+JobRole_Laboratory Technician
+JobRole_Manager
+JobRole_Manufacturing Director
+JobRole_Research Director
+JobRole_Research Scientist
+JobRole_Sales Executive
+JobRole_Sales Representative
+MaritalStatus_Divorced
+MaritalStatus_Married
+MaritalStatus_Single
+OverTime_No
+OverTime_Yes
+CareerStage_Early Career
+CareerStage_Experienced
+CareerStage_Mid Career
+CareerStage_Senior
+IncomeBand_High
+IncomeBand_Low
+IncomeBand_Medium
+IncomeBand_Very High
+CommuteBand_Far
+CommuteBand_Moderate
+CommuteBand_Near
+ExperienceBand_Expert
+ExperienceBand_Intermediate
+ExperienceBand_Junior
+ExperienceBand_Senior
+EngagementLevel_High
+EngagementLevel_Low
+EngagementLevel_Medium
+EngagementLevel_Very High
+WellbeingLevel_High
+WellbeingLevel_Low
+WellbeingLevel_Medium
+WellbeingLevel_Very High
+CareerGrowthLevel_Excellent
+CareerGrowthLevel_High
+CareerGrowthLevel_Low
+CareerGrowthLevel_Medium
+AttritionRiskLevel_Critical Risk
+AttritionRiskLevel_High Risk
+AttritionRiskLevel_Low Risk
+AttritionRiskLevel_Moderate Risk
+LoyaltyLevel_High
+LoyaltyLevel_Low
+LoyaltyLevel_Medium
+LoyaltyLevel_Very High
+ManagerStabilityLevel_High
+ManagerStabilityLevel_Low
+ManagerStabilityLevel_Medium
+ManagerStabilityLevel_Very High
+ExperienceMaturity_Beginner
+ExperienceMaturity_Developing
+ExperienceMaturity_Experienced
+ExperienceMaturity_Veteran
+TenureCommitment_High
+TenureCommitment_Low
+TenureCommitment_Moderate
+TenureCommitment_Very High
