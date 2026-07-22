@@ -1,0 +1,6 @@
+Model,Experiment,Sampling Method,Balanced Dataset,Training Samples,Accuracy,Precision,Recall,F1 Score,ROC-AUC,PR-AUC,Training Time (Seconds)
+XGBoost,ADASYN,ADASYN,Yes,1956,0.8605,0.625,0.3191,0.4225,0.7925,0.5287,0.4347
+XGBoost,SMOTE,SMOTE,Yes,1972,0.8503,0.5556,0.3191,0.4054,0.7745,0.528,0.4003
+XGBoost,Baseline,None,No,1176,0.8673,0.7222,0.2766,0.4,0.7765,0.5068,0.2068
+XGBoost,Random Oversampling,RandomOverSampler,Yes,1972,0.8435,0.5172,0.3191,0.3947,0.7731,0.4991,0.1618
+XGBoost,Class Weight,Scale Pos Weight,No,1176,0.8401,0.5,0.3191,0.3896,0.7403,0.454,0.129

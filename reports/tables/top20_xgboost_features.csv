@@ -1,0 +1,21 @@
+Feature,Importance
+MaritalStatus_Single,0.14653738
+ManagerStabilityLevel_Low,0.113679305
+Department_Research & Development,0.04597906
+TenureCommitment_High,0.04088919
+JobRole_Laboratory Technician,0.031219797
+JobLevel,0.03071213
+OvertimeRisk,0.028769521
+WellbeingLevel_Very High,0.025116613
+JobRole_Sales Executive,0.023473572
+JobRole_Manufacturing Director,0.022809263
+StockOptionLevel,0.01964101
+JobRole_Research Scientist,0.014404514
+AttritionRiskLevel_Critical Risk,0.013693044
+Department_Human Resources,0.01349138
+SeniorEmployee,0.013301739
+EngagementLevel_High,0.012966612
+AttritionRiskLevel_Moderate Risk,0.012632528
+LongCommute,0.012372845
+FrequentTraveler,0.0119878305
+JobInvolvement,0.011859242
