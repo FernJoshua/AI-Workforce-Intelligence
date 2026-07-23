@@ -1,0 +1,115 @@
+Feature,Importance
+OvertimeRisk,1.9839123
+StockOptionLevel,0.5919977
+NumCompaniesWorked,0.5759598
+FrequentTraveler,0.5504432
+DailyRate,0.414532
+JobSatisfaction,0.4045629
+CareerGrowthScore,0.3962984
+MaritalStatus_Single,0.3705064
+EngagementScore,0.318228
+JobInvolvement,0.3030571
+TotalWorkingYears,0.27428028
+JobRole_Sales Executive,0.25110722
+JobRole_Laboratory Technician,0.2298846
+Gender_Female,0.20836012
+WellbeingLevel_Medium,0.19623034
+Age,0.19620141
+LoyaltyScore,0.19186506
+Department_Research & Development,0.19021094
+ExperienceRatio,0.18847106
+IncomePerJobLevel,0.18177754
+TrainingTimesLastYear,0.17453611
+DistanceFromHome,0.1732554
+YearsInCurrentRole,0.16761509
+RelationshipSatisfaction,0.15408324
+WorkLifeBalance,0.14682171
+SalaryPercentile,0.13342033
+HourlyRate,0.1315588
+EducationField_Medical,0.12640181
+WellbeingScore,0.12349645
+EnvironmentSatisfaction,0.11446718
+AttritionRiskScore,0.11298837
+YoungProfessional,0.10926401
+JobLevel,0.094656505
+YearsAtCompany,0.08730131
+ManagerStability,0.08659548
+Department_Sales,0.08574471
+Education,0.083527245
+BusinessTravel_Non-Travel,0.07708384
+YearsSinceLastPromotion,0.07391813
+CommuteBand_Moderate,0.07291074
+PercentSalaryHike,0.069877684
+LoyaltyLevel_High,0.06724298
+AttritionRiskLevel_Moderate Risk,0.06682987
+BusinessTravel_Travel_Rarely,0.0665791
+MonthlyIncome,0.06585656
+MaritalStatus_Married,0.06161862
+YearsWithCurrManager,0.06077559
+EducationField_Life Sciences,0.06048856
+WellbeingLevel_Very High,0.060175855
+MonthlyRate,0.05648529
+EngagementLevel_Medium,0.055997245
+TenureCommitment_High,0.05476448
+EducationField_Technical Degree,0.047442418
+TenureRatio,0.044181973
+JobRole_Research Scientist,0.043912627
+ManagerStabilityLevel_Low,0.042954933
+ManagerStabilityLevel_Medium,0.0400252
+JobRole_Sales Representative,0.03915398
+IncomeBand_Medium,0.037771694
+CommuteBand_Near,0.030466028
+SeniorEmployee,0.029691286
+CareerGrowthLevel_High,0.029610973
+EducationField_Marketing,0.029170852
+IncomeBand_High,0.028309515
+EngagementLevel_High,0.02574613
+IncomeBand_Very High,0.02498588
+CareerStage_Experienced,0.024501167
+ManagerStabilityLevel_High,0.022632442
+ExperienceMaturity_Beginner,0.021282058
+MaritalStatus_Divorced,0.01959126
+CareerStage_Mid Career,0.0194201
+AttritionRiskLevel_Low Risk,0.017847728
+TenureCommitment_Moderate,0.017178245
+JobRole_Manufacturing Director,0.015674632
+CareerGrowthLevel_Medium,0.01455672
+WellbeingLevel_High,0.01428752
+LongCommute,0.012947367
+EducationField_Other,0.010869244
+LoyaltyLevel_Very High,0.009725713
+LoyaltyLevel_Medium,0.009539232
+PromotionDelay,0.009226328
+CommuteBand_Far,0.008536409
+CareerStage_Early Career,0.008040935
+AttritionRiskLevel_High Risk,0.007640948
+JobRole_Healthcare Representative,0.005865881
+ExperienceMaturity_Experienced,0.0046704407
+IncomeBand_Low,0.004137487
+AttritionRiskLevel_Critical Risk,0.0033806295
+Department_Human Resources,0.0017607266
+ExperienceMaturity_Veteran,0.001747771
+EngagementLevel_Low,0.001473174
+WellbeingLevel_Low,0.001237401
+CareerGrowthLevel_Low,0.0011849754
+ExperienceMaturity_Developing,0.0009438599
+EducationField_Human Resources,0.0
+BusinessTravel_Travel_Frequently,0.0
+PerformanceRating,0.0
+Gender_Male,0.0
+ExperienceBand_Senior,0.0
+ExperienceBand_Junior,0.0
+ExperienceBand_Intermediate,0.0
+ExperienceBand_Expert,0.0
+OverTime_Yes,0.0
+CareerStage_Senior,0.0
+JobRole_Research Director,0.0
+OverTime_No,0.0
+JobRole_Manager,0.0
+JobRole_Human Resources,0.0
+CareerGrowthLevel_Excellent,0.0
+EngagementLevel_Very High,0.0
+ManagerStabilityLevel_Very High,0.0
+LoyaltyLevel_Low,0.0
+TenureCommitment_Low,0.0
+TenureCommitment_Very High,0.0

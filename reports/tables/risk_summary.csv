@@ -1,0 +1,4 @@
+RiskLevel,Employees,AverageProbability,AveragePriority
+High,155,0.761,81.052
+Low,770,0.175,17.539
+Medium,545,0.476,47.6

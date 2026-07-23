@@ -1,0 +1,4 @@
+Department,Employees,CriticalRiskEmployees,HighRiskEmployees,AverageRiskProbability,AveragePriorityScore,TopRecommendationCategories
+Human Resources,63,0,6,0.333,33.7,"Retention, Maintain Engagement"
+Research & Development,961,0,62,0.313,31.7,"Retention, Maintain Engagement"
+Sales,446,0,87,0.427,43.6,"Maintain Engagement, Retention, Employee Engagement"
